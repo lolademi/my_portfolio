@@ -1,0 +1,31 @@
+body {
+  color: red;
+  /*background-color: #86543E;*/
+}
+
+.mybrown {
+  color: #86543e;
+  font-weight: 9;
+}
+.cl_white {
+  color: aliceblue;
+}
+.bg_green {
+  background-color: #24413a;
+}
+.bg_green_neu {
+  background-color: #24413a;
+  border-radius: 15px;
+  box-shadow: 7px 7px 14px #1b312c, -7px -7px 14px #2d5148;
+}
+.bg_brown {
+  background-color: #86543e;
+}
+.card_white {
+  border-radius: 15px;
+  background: #e0e0e0;
+  box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
+}
+.my_services {
+  background-color: #e0e0e0;
+}
